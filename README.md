@@ -14,11 +14,11 @@ Sorting for Junjun
 ## Process Goal
 The Process will try to sort the list basing on different keys in both ASC and DESC order.
 
-[MainEntry.java](MainEntry.java): the main entry of the process.
+[MainEntry.java](src/main/java/foo/zongzhe/junjun/sort/MainEntry.java): the main entry of the process.
 
-[Product.java](Product.java): Embed the attributes into an Object called "Product".
+[Product.java](src/main/java/foo/zongzhe/junjun/sort/Product.java): Embed the attributes into an Object called "Product".
 
-[SortKey.java](SortKey.java): contains the sorting keys and orders.
+[SortKey.java](src/main/java/foo/zongzhe/junjun/sort/SortKey.java): contains the sorting keys and orders.
 
 ## Output
 **Sorting by GTNR in ASC order**<p>
